@@ -1,4 +1,4 @@
-***👋 Hi, I’m @smiley88888***
+_**👋 Hi, I’m @smiley88888**_
   
   I am a seasoned Data Scientist and Trading Expert with over 10 years of experience in the financial markets.
   
@@ -7,7 +7,7 @@
   With a deep understanding of financial instruments, market trends, and statistical modeling, I excel in developing innovative solutions that enhance trading performance and risk management.
 
   
-***🌱 My skills are ...***
+_**🌱 My skills are ...**_
 
 **Data Science & Analytics:**
 
@@ -50,7 +50,7 @@
 •	Leadership and mentorship experience
 
   
-***👀 I’m interested in***
+_**👀 I’m interested in**_
   
   Passionate about teaching and mentoring aspiring data scientists.
   
@@ -61,16 +61,16 @@
   Actively involved in community service and financial literacy programs.
 
 
-***📫 How to reach me***
+_**📫 How to reach me**_
 
 **email:** wannarichman88888@gmail.com
 
 **phone:** +17079017859
 
-I am available for an interview as soon as possible.  📞Call me.
+_I am available for an interview as soon as possible.  📞Call me._
 
 
-***🎓 Certifications:***
+_**🎓 Certifications:**_
 
 Bachelor of Science in Mathematics and Statistics
 
