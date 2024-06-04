@@ -69,6 +69,7 @@
 
 I am available for an interview as soon as possible.  📞Call me.
 
+
 ***🎓 Certifications:***
 
 Bachelor of Science in Mathematics and Statistics
