@@ -20,39 +20,39 @@ _**🏆 Skills**_
 
 ✔ Programming Languages
 
-HTML | CSS | JavaScript | TypeScript | Python | Ruby | PHP | Java
+  HTML | CSS | JavaScript | TypeScript | Python | Ruby | PHP | Java
 
 ✔ Front-End
 
-React | Angluar | Vue.js | Svelte | jQuery | Bootstrap | Foundation
+  React | Angluar | Vue.js | Svelte | jQuery | Bootstrap | Foundation
 
 ✔ Back-End
 
-Node.js | Express.js | Django| Flask | Ruby on Rails | Sprint Boot | Laravel | ASP.NET
+  Node.js | Express.js | Django| Flask | Ruby on Rails | Sprint Boot | Laravel | ASP.NET
 
 ✔ Full-Stack
 
-Next.js | Nuxt.js | MEAN Stack | MERN Stack | Streamlit | Meteor.js
+  Next.js | Nuxt.js | MEAN Stack | MERN Stack | Streamlit | Meteor.js
 
 ✔ Mobile App Development
 
-React Native | Flutter | Ionic
+  React Native | Flutter | Ionic
 
 ✔ API Development
 
-FastAPI | GraphQL | Apigee
+  FastAPI | GraphQL | Apigee
 
 ✔ Database
 
-MySQL | PostgreSQL | MongoDB | SQLite | MariaDB | Redis | CouchDB | CockroachDB | InfluxDB | TimescaleDB | OrientDB | ArangoDB
+  MySQL | PostgreSQL | MongoDB | SQLite | MariaDB | Redis | CouchDB | CockroachDB | InfluxDB | TimescaleDB | OrientDB | ArangoDB
 
 ✔ UI
 
-Material-UI | TailWind CSS | Chakra UI | Figma | Adobe XD | Framer
+  Material-UI | TailWind CSS | Chakra UI | Figma | Adobe XD | Framer
 
 ✔ E-commerce Development
 
-Shopify | Magento | WooCommerce | BigCommerce
+  Shopify | Magento | WooCommerce | BigCommerce
 
 
 _**🏆 What I Offer:**_
@@ -68,6 +68,6 @@ _**🏆 What I Offer:**_
 
 _**🎓 Certifications:**_
 
-Bachelor of Computer Science
+  Bachelor of Computer Science
 
-Master of Computer Science
+  Master of Computer Science
